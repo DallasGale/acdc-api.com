@@ -1,0 +1,188 @@
+[
+  {
+    "id": 0,
+    "title": "High Voltage",
+    "year_released": 1975,
+    "tracks": [
+      {
+        "id": 0,
+        "title": "Test Title",
+        "length": "3:57",
+        "isSingleRelease": false,
+        "writers": [
+          {
+            "id": 0,
+            "name": "Angus Young"
+          }
+        ]
+      }
+    ],
+    "is_live_recording": false,
+    "is_studio_recording": true,
+    "producers": "Vanda & Young",
+    "studio": "Albert Studios",
+    "musicians": [
+      {
+        "id": 0,
+        "name": "Angus Young",
+        "instrument": "lead Guitar"
+      },
+      {
+        "id": 1,
+        "name": "Malcolm Young",
+        "instrument": "rhythm guitar, backing vocals, bass guitar, lead guitar on tracks 3, 5, 6 and 8"
+      },
+      {
+        "id": 3,
+        "name": "George Young",
+        "instrument": "bass guitar, rhythm guitar, backing vocals"
+      }
+    ],
+    "chart_perfomance": [
+      {
+        "id": 0,
+        "name": "Billboard",
+        "year": 1975,
+        "peaked": 1,
+        "lowest_position": 6
+      },
+      {
+        "id": 1,
+        "name": "Billboard",
+        "year": 2008,
+        "peaked": 6,
+        "weeks_on_chart": 6
+      }
+    ],
+    "certification": {
+      "id": 0,
+      "region": "Australia (ARIA)",
+      "certification": "5x Platinum",
+      "units_sales": "350000^"
+    }
+  },
+  {
+    "id": 1,
+    "title": "High Voltage",
+    "year_released": 1975,
+    "tracks": [
+      {
+        "id": 0,
+        "title": "Test Title",
+        "length": "3:57",
+        "isSingleRelease": false,
+        "writers": [
+          {
+            "id": 0,
+            "name": "Angus Young"
+          }
+        ]
+      }
+    ],
+    "is_live_recording": false,
+    "is_studio_recording": true,
+    "producers": "Vanda & Young",
+    "studio": "Albert Studios",
+    "musicians": [
+      {
+        "id": 0,
+        "name": "Angus Young",
+        "instrument": "lead Guitar"
+      },
+      {
+        "id": 1,
+        "name": "Malcolm Young",
+        "instrument": "rhythm guitar, backing vocals, bass guitar, lead guitar on tracks 3, 5, 6 and 8"
+      },
+      {
+        "id": 3,
+        "name": "George Young",
+        "instrument": "bass guitar, rhythm guitar, backing vocals"
+      }
+    ],
+    "chart_perfomance": [
+      {
+        "id": 0,
+        "name": "Billboard",
+        "year": 1975,
+        "peaked": 1,
+        "lowest_position": 6
+      },
+      {
+        "id": 1,
+        "name": "Billboard",
+        "year": 2008,
+        "peaked": 6,
+        "weeks_on_chart": 6
+      }
+    ],
+    "certification": {
+      "id": 0,
+      "region": "Australia (ARIA)",
+      "certification": "5x Platinum",
+      "units_sales": "350000^"
+    }
+  },
+  {
+    "id": 2,
+    "title": "High Voltage",
+    "year_released": 1975,
+    "tracks": [
+      {
+        "id": 0,
+        "title": "Test Title",
+        "length": "3:57",
+        "isSingleRelease": false,
+        "writers": [
+          {
+            "id": 0,
+            "name": "Angus Young"
+          }
+        ]
+      }
+    ],
+    "is_live_recording": false,
+    "is_studio_recording": true,
+    "producers": "Vanda & Young",
+    "studio": "Albert Studios",
+    "musicians": [
+      {
+        "id": 0,
+        "name": "Angus Young",
+        "instrument": "lead Guitar"
+      },
+      {
+        "id": 1,
+        "name": "Malcolm Young",
+        "instrument": "rhythm guitar, backing vocals, bass guitar, lead guitar on tracks 3, 5, 6 and 8"
+      },
+      {
+        "id": 3,
+        "name": "George Young",
+        "instrument": "bass guitar, rhythm guitar, backing vocals"
+      }
+    ],
+    "chart_perfomance": [
+      {
+        "id": 0,
+        "name": "Billboard",
+        "year": 1975,
+        "peaked": 1,
+        "lowest_position": 6
+      },
+      {
+        "id": 1,
+        "name": "Billboard",
+        "year": 2008,
+        "peaked": 6,
+        "weeks_on_chart": 6
+      }
+    ],
+    "certification": {
+      "id": 0,
+      "region": "Australia (ARIA)",
+      "certification": "5x Platinum",
+      "units_sales": "350000^"
+    }
+  }
+]
