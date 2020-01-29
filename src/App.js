@@ -46,7 +46,7 @@ class App extends Component {
           <h1 style={{ fontSize: 30 }}>
             THE <span class="title">ACDC-API</span>.COM
           </h1>
-          <h2>Comming in 2020!</h2>
+          <h2>Coming in 2020!</h2>
         </header>
       </div>
     );
