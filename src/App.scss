@@ -1,7 +1,7 @@
 @import "./styles/index.scss";
 
 body {
-  background: url("./assets/images/hero.jpg");
+  background: #000 url("./assets/images/hero.jpg");
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
@@ -44,10 +44,12 @@ h1 {
   // left: 40px;
   // top: 20px;
   .title {
-    color: #ff5722;
+    color: #e91e63;
   }
 }
 h2 {
+  background: #e91e63;
+  padding: 5px 9px 6px;
   font-family: monospace;
   text-transform: uppercase;
   font-size: 14px;

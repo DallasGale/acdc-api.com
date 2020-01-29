@@ -44,9 +44,9 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1 style={{ fontSize: 30 }}>
-            THE <span class="title">ACDC-API</span>.COM
+            <span class="title">ACDC-API</span>.COM
           </h1>
-          <h2>Coming in 2020!</h2>
+          <h2>⚡⚡ROCKIN DATA COMING IN 2020!⚡⚡</h2>
         </header>
       </div>
     );
