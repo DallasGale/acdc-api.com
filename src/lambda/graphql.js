@@ -11,26 +11,26 @@ const typeDefs = gql`
   type Album {
     id: ID!
     title: String
-    year_released: String
+    released: Date
     tracks: [Track]
     is_live_recording: Boolean
     is_studio_recording: Boolean
     producers: String
+    peak_chart_position: [Chart]
   }
 
   type Chart {
     id: ID
-    name: String
+    association: String
+    position: Int
     year: Int
-    peaked: Int
-    lowest_position: Int
   }
 
   type Certifications {
     id: ID
     region: String
     certification: String
-    units_sales: String
+    units_sold: String
   }
 
   type Track {
@@ -44,7 +44,7 @@ const typeDefs = gql`
     name: String
   }
 
-  type Musician {
+  type Performer {
     id: ID
     name: String
     instrument: String
